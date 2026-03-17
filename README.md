@@ -35,6 +35,6 @@ RSS haberlerini çekip Groq'a soran, “Bu haberden para kazanmak için ne yapı
 - E-posta / Telegram entegrasyonu  
 - Para kazanma fırsatlarını otomatik sınıflandırma  
 
-Bu proje, TEI stajımda gördüğüm otomasyon mantığından ilham aldı. Geri bildirimlerinizi bekliyorum! 🚀  
+Geri bildirimlerinizi bekliyorum! 🚀  
 
 #AI #n8n #Groq #Automation #RPA #HaberAnalizi
